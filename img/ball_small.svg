@@ -1,0 +1,35 @@
+<svg id="ball_small" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.5" height="85.5" viewBox="0 0 85.5 85.5">
+  <defs>
+    <radialGradient id="radial-gradient" cx="42.75" cy="42.75" r="42.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1930" stop-opacity="0"/>
+      <stop offset="0.52" stop-color="#0e1930" stop-opacity="0.039"/>
+      <stop offset="0.71" stop-color="#0e1930" stop-opacity="0.18"/>
+      <stop offset="0.84" stop-color="#0e1930" stop-opacity="0.431"/>
+      <stop offset="0.95" stop-color="#0e1930" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#0e1930"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="56.469" cy="32.014" r="59.093" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1930" stop-opacity="0"/>
+      <stop offset="0.44" stop-color="#0e1930" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#0e1930"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="-19.437" cy="-7.362" r="125.548" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="aqua" stop-opacity="0"/>
+      <stop offset="0.58" stop-color="aqua" stop-opacity="0"/>
+      <stop offset="0.68" stop-color="aqua" stop-opacity="0"/>
+      <stop offset="0.73" stop-color="aqua" stop-opacity="0.012"/>
+      <stop offset="0.77" stop-color="aqua" stop-opacity="0.051"/>
+      <stop offset="0.81" stop-color="aqua" stop-opacity="0.122"/>
+      <stop offset="0.85" stop-color="aqua" stop-opacity="0.212"/>
+      <stop offset="0.88" stop-color="aqua" stop-opacity="0.341"/>
+      <stop offset="0.92" stop-color="aqua" stop-opacity="0.478"/>
+      <stop offset="0.95" stop-color="aqua" stop-opacity="0.659"/>
+      <stop offset="0.98" stop-color="aqua" stop-opacity="0.859"/>
+      <stop offset="1" stop-color="aqua"/>
+    </radialGradient>
+  </defs>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="42.75" cy="42.75" r="42.75" fill="#0070f0"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="42.75" cy="42.75" r="42.75" fill="url(#radial-gradient)"/>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="42.75" cy="42.75" r="42.75" fill="url(#radial-gradient-2)"/>
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="42.75" cy="42.75" r="42.75" fill="url(#radial-gradient-3)"/>
+</svg>
